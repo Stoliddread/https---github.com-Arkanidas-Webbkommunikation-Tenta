@@ -3,6 +3,8 @@ let author = document.getElementById("createAuthor")
 let textArea = document.getElementById("createText")
 let createForm = document.getElementById("createForm")
 
+
+
 createForm.addEventListener('submit', async function (e) {
     e.preventDefault()
     const form = e.target
