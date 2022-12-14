@@ -1,0 +1,17 @@
+body{
+    background-color:cadetblue;
+}
+table,tr,th,td{
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+table{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+#createBody1{
+    text-align: center;
+    margin: 0 auto;
+}
